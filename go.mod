@@ -1,4 +1,4 @@
-module github.com/algorand/go-algorand-sdk/v2
+module github.com/urtho/go-algorand-sdk/v2
 
 go 1.21
 
