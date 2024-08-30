@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/common"
+	"github.com/urtho/go-algorand-sdk/v2/client/v2/common"
 )
 
 // SetBlockTimeStampOffset sets the timestamp offset (seconds) for blocks in dev

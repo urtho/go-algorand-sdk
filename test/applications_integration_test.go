@@ -16,17 +16,17 @@ import (
 	"strings"
 	"time"
 
-	"github.com/algorand/go-algorand-sdk/v2/transaction"
+	"github.com/urtho/go-algorand-sdk/v2/transaction"
 
 	"github.com/cucumber/godog"
 
-	"github.com/algorand/go-algorand-sdk/v2/abi"
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/algod"
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/common/models"
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/indexer"
-	"github.com/algorand/go-algorand-sdk/v2/crypto"
-	sdkJson "github.com/algorand/go-algorand-sdk/v2/encoding/json"
-	"github.com/algorand/go-algorand-sdk/v2/types"
+	"github.com/urtho/go-algorand-sdk/v2/abi"
+	"github.com/urtho/go-algorand-sdk/v2/client/v2/algod"
+	"github.com/urtho/go-algorand-sdk/v2/client/v2/common/models"
+	"github.com/urtho/go-algorand-sdk/v2/client/v2/indexer"
+	"github.com/urtho/go-algorand-sdk/v2/crypto"
+	sdkJson "github.com/urtho/go-algorand-sdk/v2/encoding/json"
+	"github.com/urtho/go-algorand-sdk/v2/types"
 )
 
 var algodV2client *algod.Client

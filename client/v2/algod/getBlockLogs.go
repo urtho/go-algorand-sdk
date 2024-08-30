@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/common"
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/common/models"
+	"github.com/urtho/go-algorand-sdk/v2/client/v2/common"
+	"github.com/urtho/go-algorand-sdk/v2/client/v2/common/models"
 )
 
 // GetBlockLogs get all of the logs from outer and inner app calls in the given

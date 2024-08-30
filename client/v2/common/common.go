@@ -9,9 +9,9 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/algorand/go-algorand-sdk/v2/encoding/json"
-	"github.com/algorand/go-algorand-sdk/v2/encoding/msgpack"
 	"github.com/google/go-querystring/query"
+	"github.com/urtho/go-algorand-sdk/v2/encoding/json"
+	"github.com/urtho/go-algorand-sdk/v2/encoding/msgpack"
 )
 
 // rawRequestPaths is a set of paths where the body should not be urlencoded

@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	json2 "github.com/algorand/go-algorand-sdk/v2/encoding/json"
+	json2 "github.com/urtho/go-algorand-sdk/v2/encoding/json"
 )
 
 func TestUnmarshalBlockHash(t *testing.T) {

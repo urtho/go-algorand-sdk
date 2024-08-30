@@ -3,9 +3,9 @@ package transaction
 import (
 	"encoding/json"
 
-	"github.com/algorand/go-algorand-sdk/v2/crypto"
-	"github.com/algorand/go-algorand-sdk/v2/encoding/msgpack"
-	"github.com/algorand/go-algorand-sdk/v2/types"
+	"github.com/urtho/go-algorand-sdk/v2/crypto"
+	"github.com/urtho/go-algorand-sdk/v2/encoding/msgpack"
+	"github.com/urtho/go-algorand-sdk/v2/types"
 )
 
 // TransactionSigner represents a function which can sign transactions from an atomic transaction group.

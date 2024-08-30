@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/common"
-	"github.com/algorand/go-algorand-sdk/v2/types"
+	"github.com/urtho/go-algorand-sdk/v2/client/v2/common"
+	"github.com/urtho/go-algorand-sdk/v2/types"
 )
 
 // GetLedgerStateDeltaParams contains all of the query parameters for url serialization.

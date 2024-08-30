@@ -1,6 +1,6 @@
 package models
 
-import "github.com/algorand/go-algorand-sdk/v2/types"
+import "github.com/urtho/go-algorand-sdk/v2/types"
 
 // DryrunRequest request data type for dryrun endpoint. Given the Transactions and
 // simulated ledger state upload, run TEAL scripts and return debugging

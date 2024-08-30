@@ -9,12 +9,12 @@ import (
 	"os"
 	"strings"
 
-	"github.com/algorand/go-algorand-sdk/v2/client/kmd"
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/algod"
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/indexer"
-	"github.com/algorand/go-algorand-sdk/v2/crypto"
-	"github.com/algorand/go-algorand-sdk/v2/transaction"
-	"github.com/algorand/go-algorand-sdk/v2/types"
+	"github.com/urtho/go-algorand-sdk/v2/client/kmd"
+	"github.com/urtho/go-algorand-sdk/v2/client/v2/algod"
+	"github.com/urtho/go-algorand-sdk/v2/client/v2/indexer"
+	"github.com/urtho/go-algorand-sdk/v2/crypto"
+	"github.com/urtho/go-algorand-sdk/v2/transaction"
+	"github.com/urtho/go-algorand-sdk/v2/types"
 )
 
 var (

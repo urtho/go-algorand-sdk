@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/algorand/go-algorand-sdk/v2/examples"
-	"github.com/algorand/go-algorand-sdk/v2/transaction"
+	"github.com/urtho/go-algorand-sdk/v2/examples"
+	"github.com/urtho/go-algorand-sdk/v2/transaction"
 )
 
 func main() {

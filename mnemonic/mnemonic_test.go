@@ -7,8 +7,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/algorand/go-algorand-sdk/v2/crypto"
-	"github.com/algorand/go-algorand-sdk/v2/types"
+	"github.com/urtho/go-algorand-sdk/v2/crypto"
+	"github.com/urtho/go-algorand-sdk/v2/types"
 )
 
 func TestGenerateAndRecovery(t *testing.T) {

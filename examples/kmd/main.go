@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/algorand/go-algorand-sdk/v2/client/kmd"
-	"github.com/algorand/go-algorand-sdk/v2/crypto"
-	"github.com/algorand/go-algorand-sdk/v2/examples"
-	"github.com/algorand/go-algorand-sdk/v2/mnemonic"
-	"github.com/algorand/go-algorand-sdk/v2/types"
+	"github.com/urtho/go-algorand-sdk/v2/client/kmd"
+	"github.com/urtho/go-algorand-sdk/v2/crypto"
+	"github.com/urtho/go-algorand-sdk/v2/examples"
+	"github.com/urtho/go-algorand-sdk/v2/mnemonic"
+	"github.com/urtho/go-algorand-sdk/v2/types"
 )
 
 func main() {

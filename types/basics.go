@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/crypto/ed25519"
 
-	"github.com/algorand/go-algorand-sdk/v2/encoding/msgpack"
+	"github.com/urtho/go-algorand-sdk/v2/encoding/msgpack"
 )
 
 // TxType identifies the type of the transaction

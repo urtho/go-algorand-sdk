@@ -3,9 +3,9 @@ package algod
 import (
 	"context"
 
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/common"
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/common/models"
-	"github.com/algorand/go-algorand-sdk/v2/encoding/msgpack"
+	"github.com/urtho/go-algorand-sdk/v2/client/v2/common"
+	"github.com/urtho/go-algorand-sdk/v2/client/v2/common/models"
+	"github.com/urtho/go-algorand-sdk/v2/encoding/msgpack"
 )
 
 // TealDryrun executes TEAL program(s) in context and returns debugging information

@@ -6,9 +6,9 @@ import (
 	"log"
 	"strings"
 
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/algod"
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/common"
-	"github.com/algorand/go-algorand-sdk/v2/transaction"
+	"github.com/urtho/go-algorand-sdk/v2/client/v2/algod"
+	"github.com/urtho/go-algorand-sdk/v2/client/v2/common"
+	"github.com/urtho/go-algorand-sdk/v2/transaction"
 )
 
 func main() {

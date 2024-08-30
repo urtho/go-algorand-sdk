@@ -6,6 +6,7 @@ toolchain go1.21.10
 
 require (
 	github.com/algorand/avm-abi v0.1.1
+	github.com/urtho/go-algorand-sdk/v2 v2.6.0
 	github.com/algorand/go-codec/codec v1.1.10
 	github.com/cucumber/godog v0.8.1
 	github.com/google/go-querystring v1.0.0

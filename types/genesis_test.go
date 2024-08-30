@@ -6,9 +6,9 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/algorand/go-algorand-sdk/v2/encoding/json"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"github.com/urtho/go-algorand-sdk/v2/encoding/json"
 )
 
 func TestEncodeDecodeGenesis(t *testing.T) {

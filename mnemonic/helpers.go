@@ -3,7 +3,7 @@ package mnemonic
 import (
 	"golang.org/x/crypto/ed25519"
 
-	"github.com/algorand/go-algorand-sdk/v2/types"
+	"github.com/urtho/go-algorand-sdk/v2/types"
 )
 
 // FromPrivateKey is a helper that converts an ed25519 private key to a

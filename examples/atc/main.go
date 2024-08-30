@@ -6,10 +6,10 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/algorand/go-algorand-sdk/v2/abi"
-	"github.com/algorand/go-algorand-sdk/v2/examples"
-	"github.com/algorand/go-algorand-sdk/v2/transaction"
-	"github.com/algorand/go-algorand-sdk/v2/types"
+	"github.com/urtho/go-algorand-sdk/v2/abi"
+	"github.com/urtho/go-algorand-sdk/v2/examples"
+	"github.com/urtho/go-algorand-sdk/v2/transaction"
+	"github.com/urtho/go-algorand-sdk/v2/types"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package config
 import (
 	"time"
 
-	"github.com/algorand/go-algorand-sdk/v2/protocol"
+	"github.com/urtho/go-algorand-sdk/v2/protocol"
 )
 
 // ConsensusParams specifies settings that might vary based on the

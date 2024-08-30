@@ -1,7 +1,7 @@
 package kmd
 
 import (
-	"github.com/algorand/go-algorand-sdk/v2/types"
+	"github.com/urtho/go-algorand-sdk/v2/types"
 )
 
 // APIV1Wallet is the API's representation of a wallet

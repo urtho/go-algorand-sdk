@@ -3,10 +3,10 @@ package transaction
 import (
 	"testing"
 
-	"github.com/algorand/go-algorand-sdk/v2/abi"
-	"github.com/algorand/go-algorand-sdk/v2/crypto"
-	"github.com/algorand/go-algorand-sdk/v2/types"
 	"github.com/stretchr/testify/require"
+	"github.com/urtho/go-algorand-sdk/v2/abi"
+	"github.com/urtho/go-algorand-sdk/v2/crypto"
+	"github.com/urtho/go-algorand-sdk/v2/types"
 )
 
 func TestMakeAtomicTransactionComposer(t *testing.T) {

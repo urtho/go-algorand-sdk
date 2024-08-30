@@ -13,9 +13,9 @@ import (
 	"sort"
 	"strings"
 
-	sdk_json "github.com/algorand/go-algorand-sdk/v2/encoding/json"
-	"github.com/algorand/go-algorand-sdk/v2/encoding/msgpack"
-	"github.com/algorand/go-algorand-sdk/v2/types"
+	sdk_json "github.com/urtho/go-algorand-sdk/v2/encoding/json"
+	"github.com/urtho/go-algorand-sdk/v2/encoding/msgpack"
+	"github.com/urtho/go-algorand-sdk/v2/types"
 )
 
 // VerifyResponse compares the actual response to the expected response.

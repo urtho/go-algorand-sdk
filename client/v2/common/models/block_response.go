@@ -1,6 +1,6 @@
 package models
 
-import "github.com/algorand/go-algorand-sdk/v2/types"
+import "github.com/urtho/go-algorand-sdk/v2/types"
 
 // BlockResponse encoded block object.
 type BlockResponse struct {

@@ -3,8 +3,8 @@ package algod
 import (
 	"context"
 
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/common"
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/common/models"
+	"github.com/urtho/go-algorand-sdk/v2/client/v2/common"
+	"github.com/urtho/go-algorand-sdk/v2/client/v2/common/models"
 )
 
 // GetBlockTimeStampOffset gets the current timestamp offset.

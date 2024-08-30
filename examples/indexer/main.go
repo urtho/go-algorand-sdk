@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/common"
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/indexer"
-	"github.com/algorand/go-algorand-sdk/v2/examples"
+	"github.com/urtho/go-algorand-sdk/v2/client/v2/common"
+	"github.com/urtho/go-algorand-sdk/v2/client/v2/indexer"
+	"github.com/urtho/go-algorand-sdk/v2/examples"
 )
 
 func main() {
